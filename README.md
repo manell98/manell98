@@ -1,5 +1,5 @@
 # Emanuell Santos de Jesus
-#### Systems Analyst at Banco do Brasil
+#### Systems Analyst at Banco do Brasil Tecnologia e Serviços 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emanuell%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manell98/)](https://www.linkedin.com/in/manell98/) 
 [![Instagram Badge](https://img.shields.io/badge/-@u__manell-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u_manell/)](https://www.instagram.com/u_manell/)
