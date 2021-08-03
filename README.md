@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dfmanu06@gmail.com-BB001B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfmanu06@gmail.com)](mailto:dfmanu06@gmail.com)
 
 <a href="https://github.com/manell98">
-    <img width="50%" align="right" width="50%" alt="manell98 github stats" src="https://github-readme-stats.vercel.app/api?username=manell98&show_icons=false&hide_border=false"/>
+    <img width="50%" align="right" width="50%" alt="manell98 github stats" src="https://github-readme-stats.vercel.app/api?username=manell98&show_icons=false&hide_border=false&theme=dark"/>
 </a>
 
 **Knowledge:**  
