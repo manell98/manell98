@@ -1,5 +1,5 @@
 # Emanuell Santos de Jesus
-#### Systems Analyst at Banco do Brasil Tecnologia e Serviços 
+#### Application Developer @ IBM
 
  <div>
   <a href="https://github.com/manell98">
