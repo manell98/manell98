@@ -3,10 +3,8 @@
 # Emanuell Santos de Jesus
 #### Software Engineer
 
-<div> 
- <a href="https://www.linkedin.com/in/manell98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/u_manell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+[<img src='https://www.svgrepo.com/show/448234/linkedin.svg' alt='linkedin' height='40' width="60" target="_blank">](https://www.linkedin.com/in/manell98)
+[<img src='https://www.svgrepo.com/show/452229/instagram-1.svg' alt='instagram' height='38' wisth="85" target="_blank">](https://www.instagram.com/u_manell/)
 
 ##
 
